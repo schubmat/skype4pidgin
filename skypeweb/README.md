@@ -86,7 +86,7 @@ Requires devel headers/libs for libpurple and json-glib, gcc compiler and cmake
 	cd skype4pidgin/skypeweb
 	mkdir build
 	cd build
-	cmake ..
+	cmake .
 	cpack
 ```
 To install do:
